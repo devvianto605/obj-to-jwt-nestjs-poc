@@ -1,0 +1,1 @@
+export { ConfigurationData } from './configuration.data';
